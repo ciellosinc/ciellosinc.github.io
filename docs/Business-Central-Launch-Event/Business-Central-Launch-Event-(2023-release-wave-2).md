@@ -1,4 +1,4 @@
-[[_TOC_]]
+{:toc}
 
 
 # Business Central Launch Event (2023 Release wave 2)
@@ -25,7 +25,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - developer tools.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20developer%20tools.pdf)
+[What's new - developer tools.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20developer%20tools.pdf)
 
 ## AL Go for GitHub (2023 release wave 2)
 
@@ -49,7 +49,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - AL-Go for GitHub.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20AL-Go%20for%20GitHub.pdf)
+[What's new - AL-Go for GitHub.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20AL-Go%20for%20GitHub.pdf)
 
 ## Server and database - A faster data stack (2023 release wave 2)
 
@@ -69,7 +69,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Server and database.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Server%20and%20database.pdf)
+[What's new - Server and database.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Server%20and%20database.pdf)
 
 ## Performance testing before go-live with Performance Toolkit (2023 release wave 2)
 
@@ -93,7 +93,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Performance testing before go-live with Performance Toolkit.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Performance%20testing%20before%20go-live%20with%20Performance%20Toolkit.pdf)
+[What's new - Performance testing before go-live with Performance Toolkit.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Performance%20testing%20before%20go-live%20with%20Performance%20Toolkit.pdf)
 
 ## Business Central integration with Power Platform
 
@@ -116,7 +116,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Business Central integration with Power Platform.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Business%20Central%20integration%20with%20Power%20Platform.pdf)
+[What's new - Business Central integration with Power Platform.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Business%20Central%20integration%20with%20Power%20Platform.pdf)
 
 ## Dataverse & Dynamics 365 app integration, Part 1
 
@@ -137,7 +137,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new in Dataverse and Dynamics 365 App integration - Part 1.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20in%20Dataverse%20and%20Dynamics%20365%20App%20integration%20-%20Part%201.pdf)
+[What's new in Dataverse and Dynamics 365 App integration - Part 1.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20in%20Dataverse%20and%20Dynamics%20365%20App%20integration%20-%20Part%201.pdf)
 
 ## Dataverse & Dynamics 365 app integration, Part 2
 
@@ -158,7 +158,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Dataverse & Dynamics 365 app integration - Part 2.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Dataverse%20&%20Dynamics%20365%20app%20integration%20-%20Part%202.pdf)
+[What's new - Dataverse & Dynamics 365 app integration - Part 2.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Dataverse%20&%20Dynamics%20365%20app%20integration%20-%20Part%202.pdf)
 
 ## Power BI and reporting for developers (2023 release wave 2)
 
@@ -181,7 +181,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Power BI and reporting (for developers).pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Power%20BI%20and%20reporting%20(for%20developers).pdf)
+[What's new - Power BI and reporting (for developers).pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Power%20BI%20and%20reporting%20(for%20developers).pdf)
 
 ## Telemetry (2023 release wave 2)
 
@@ -202,7 +202,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Telemetry.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Telemetry.pdf)
+[What's new - Telemetry.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Telemetry.pdf)
 
 ## Introducing: Analyze data on lists and queries (2023 release wave 2)
 
@@ -225,7 +225,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[Introducing - Analyze data on lists and queries.pdf](/.attachments/.Business-Central-Launch-Event/Introducing%20-%20Analyze%20data%20on%20lists%20and%20queries.pdf)
+[Introducing - Analyze data on lists and queries.pdf](./.attachments/.Business-Central-Launch-Event/Introducing%20-%20Analyze%20data%20on%20lists%20and%20queries.pdf)
 
 ## Designing and developing generative AI experiences for your apps (2023 release wave 2)
 
@@ -248,7 +248,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[Introducing designing and developing generative AI experiences for your extensions.pdf](/.attachments/.Business-Central-Launch-Event/Introducing%20designing%20and%20developing%20generative%20AI%20experiences%20for%20your%20extensions.pdf)
+[Introducing designing and developing generative AI experiences for your extensions.pdf](./.attachments/.Business-Central-Launch-Event/Introducing%20designing%20and%20developing%20generative%20AI%20experiences%20for%20your%20extensions.pdf)
 
 ## Troubleshooting Shopify integration (2023 release wave 2)
 
@@ -268,7 +268,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[Troubleshooting Shopify integration.pdf](/.attachments/.Business-Central-Launch-Event/Troubleshooting%20Shopify%20integration.pdf)
+[Troubleshooting Shopify integration.pdf](./.attachments/.Business-Central-Launch-Event/Troubleshooting%20Shopify%20integration.pdf)
 
 ## Business Central mobile apps featuring brand new barcode scanning capabilities
 
@@ -287,7 +287,7 @@ _Video_
 
 ---
 _PDF Version_
-[What's new - Mobile app and barcode scanner.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Mobile%20app%20and%20barcode%20scanner.pdf)
+[What's new - Mobile app and barcode scanner.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Mobile%20app%20and%20barcode%20scanner.pdf)
 
 ## Productivity features in the web client (2023 release wave 2)
 
@@ -306,7 +306,7 @@ _Video_
 
 ---
 _PDF Version_
-[What's new - Productivity features in the Web client.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Productivity%20features%20in%20the%20Web%20client.pdf)
+[What's new - Productivity features in the Web client.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Productivity%20features%20in%20the%20Web%20client.pdf)
 
 ## Cross-environment consolidations (2023 release wave 2)
 
@@ -326,7 +326,7 @@ _Video_
 
 ---
 _PDF Version_
-[What's new - Cross-environment consolidations.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Cross-environment%20consolidations.pdf)
+[What's new - Cross-environment consolidations.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Cross-environment%20consolidations.pdf)
 
 ## Legislation and localization (2023 release wave 2)
 
@@ -346,7 +346,7 @@ _Video_
 
 ---
 _PDF Version_
-[What's new - legislation and localization.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20legislation%20and%20localization.pdf)
+[What's new - legislation and localization.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20legislation%20and%20localization.pdf)
 
 ## Resource governance for Business Central online (2023 release wave 2)
 
@@ -369,7 +369,7 @@ _Video_
 
 ---
 _PDF Version_
-[What's new - Resource governance for Dynamics 365 Business Central online.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Resource%20governance%20for%20Dynamics%20365%20Business%20Central%20online.pdf)
+[What's new - Resource governance for Dynamics 365 Business Central online.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Resource%20governance%20for%20Dynamics%20365%20Business%20Central%20online.pdf)
 
 ## Add existing table fields to pages (2023 release wave 2)
 
@@ -388,7 +388,7 @@ _Video_
 
 ---
 _PDF Version_
-[What's new - Add existing table fields.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Add%20existing%20table%20fields.pdf)
+[What's new - Add existing table fields.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Add%20existing%20table%20fields.pdf)
 
 ## Creating customer centric onboarding experiences (2023 release wave 2)
 
@@ -401,7 +401,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[Creating customer centric onboarding app.pdf](/.attachments/.Business-Central-Launch-Event/Creating%20customer%20centric%20onboarding%20app.pdf)
+[Creating customer centric onboarding app.pdf](./.attachments/.Business-Central-Launch-Event/Creating%20customer%20centric%20onboarding%20app.pdf)
 
 ## Introducing: Contoso demo tool (2023 release wave 2)
 
@@ -421,7 +421,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[Introducing Contoso Demo Tool.pdf](/.attachments/.Business-Central-Launch-Event/Introducing%20Contoso%20Demo%20Tool.pdf)
+[Introducing Contoso Demo Tool.pdf](./.attachments/.Business-Central-Launch-Event/Introducing%20Contoso%20Demo%20Tool.pdf)
 
 ## Fixed and variable G/L allocations (2023 release wave 2)
 
@@ -444,7 +444,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Finance - Allocation accounts.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Finance%20-%20Allocation%20accounts.pdf)
+[What's new - Finance - Allocation accounts.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Finance%20-%20Allocation%20accounts.pdf)
 
 ## Cross environment intercompany posting and approval for IC general journals
 
@@ -464,7 +464,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Finance - Intercompany Postings.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Finance%20-%20Intercompany%20Postings.pdf)
+[What's new - Finance - Intercompany Postings.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Finance%20-%20Intercompany%20Postings.pdf)
 
 ## Payment times analysis in Business Central (2023 release wave 2)
 
@@ -484,7 +484,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[Introducing - payment time analysis.pdf](/.attachments/.Business-Central-Launch-Event/Introducing%20-%20payment%20time%20analysis.pdf)
+[Introducing - payment time analysis.pdf](./.attachments/.Business-Central-Launch-Event/Introducing%20-%20payment%20time%20analysis.pdf)
 
 ## Bank account reconciliation assistance with Copilot (2023 release wave 2)
 
@@ -503,7 +503,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[Introducing Bank account reconciliation assist with Copilot.pdf](/.attachments/.Business-Central-Launch-Event/Introducing%20Bank%20account%20reconciliation%20assist%20with%20Copilot.pdf)
+[Introducing Bank account reconciliation assist with Copilot.pdf](./.attachments/.Business-Central-Launch-Event/Introducing%20Bank%20account%20reconciliation%20assist%20with%20Copilot.pdf)
 
 ## Using enforced digital vouchers (2023 release wave 2)
 
@@ -522,7 +522,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Using of enforced digital vouchers.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Using%20of%20enforced%20digital%20vouchers.pdf)
+[What's new - Using of enforced digital vouchers.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Using%20of%20enforced%20digital%20vouchers.pdf)
 
 ## VAT Date in Business Central (2023 release wave 2)
 
@@ -544,7 +544,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - VAT Date.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20VAT%20Date.pdf)
+[What's new - VAT Date.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20VAT%20Date.pdf)
 
 ## Marketing text suggestions (2023 release wave 2)
 
@@ -563,7 +563,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's New - Marketing text suggestions.pdf](/.attachments/.Business-Central-Launch-Event/What's%20New%20-%20Marketing%20text%20suggestions.pdf)
+[What's New - Marketing text suggestions.pdf](./.attachments/.Business-Central-Launch-Event/What's%20New%20-%20Marketing%20text%20suggestions.pdf)
 
 ## Service management demo data (2023 release wave 2)
 
@@ -582,7 +582,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Service management demo data.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Service%20management%20demo%20data.pdf)
+[What's new - Service management demo data.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Service%20management%20demo%20data.pdf)
 
 ## Warehouse management (2023 release wave 2)
 
@@ -602,7 +602,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - warehouse management.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20warehouse%20management.pdf)
+[What's new - warehouse management.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20warehouse%20management.pdf)
 
 ## Reservation worksheet and fulfillment suggestions (2023 release wave 2)
 
@@ -621,7 +621,7 @@ _Video_
 
 ---
 _PDF Version_ 
-[What's new - Reservation worksheet and fulfilment suggestions.pdf](/.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Reservation%20worksheet%20and%20fulfilment%20suggestions.pdf)
+[What's new - Reservation worksheet and fulfilment suggestions.pdf](./.attachments/.Business-Central-Launch-Event/What's%20new%20-%20Reservation%20worksheet%20and%20fulfilment%20suggestions.pdf)
 
 ## E-invoicing (2023 release wave 2)
 
@@ -643,4 +643,4 @@ _Video_
 
 ---
 _PDF Version_ 
-[Introducing - e-invoicing.pdf](/.attachments/.Business-Central-Launch-Event/Introducing%20-%20e-invoicing.pdf)
+[Introducing - e-invoicing.pdf](./.attachments/.Business-Central-Launch-Event/Introducing%20-%20e-invoicing.pdf)

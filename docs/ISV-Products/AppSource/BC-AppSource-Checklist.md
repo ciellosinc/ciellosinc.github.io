@@ -1,6 +1,6 @@
 # BC AppSource Checklist
 
-[[_TOC_]]
+{:toc}
 
 
 This document provides a checklist for actions needed to create and publish AppSource offer from scratch.

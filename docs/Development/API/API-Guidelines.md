@@ -23,7 +23,7 @@ To provide the smoothest possible experience for developers on platforms followi
 This document establishes the guidelines Microsoft REST APIs SHOULD follow so RESTful interfaces are developed consistently.
 
 ## 2 Table of contents
-[[_TOC_]]
+{:toc}
 
 
 ## 3 Introduction

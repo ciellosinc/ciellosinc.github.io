@@ -1,4 +1,4 @@
-[[_TOC_]]
+{:toc}
 
 ---
 # Environments - From a Usage perspective
@@ -118,7 +118,7 @@ In short, you should fill in the following form [ISV Request License](https://ex
 - Overview Partner Sandbox Licenses – Overview https://aka.ms/sandboxoverview
 - Guide Partner Sandbox Licenses – Partner Experience Guide https://aka.ms/sandboxhowto
 
-![image.png](/.attachments/.Environments/image-97dd28ba-a7d7-4153-a66f-eb4e860296b1.png)
+![image.png](./.attachments/.Environments/image-97dd28ba-a7d7-4153-a66f-eb4e860296b1.png)
 
 
 

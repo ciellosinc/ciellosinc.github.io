@@ -1,4 +1,4 @@
-[[_TOC_]]
+{:toc}
 
 # Links
 
@@ -14,15 +14,15 @@ All pictures are saved in the folder .attachments.
 In order to simplify the transfer of articles from one source to another, for each article it is necessary to create its own folder with the same name as the article, and be sure to add a dot (.) at the beginning. Replace all special symbols and spaces by dash '-'
 
 **Example**
-The name of the file containing this article will be **How-to%3A-Work-with-Wiki.md**
-So, we create folder "**/.attachments/.How-to-A-Work-with-Wiki**" and paste pictures there
+The name of the file containing this article will be **How-to-A-Work-with-Wiki.md**
+So, we create folder "**./.attachments/.How-to-A-Work-with-Wiki**" and paste pictures there
 
-![image](/.attachments/.How-to-A-Work-with-Wiki/HTAWWWPicture01.png)
+![image](./.attachments/.How-to-A-Work-with-Wiki/HTAWWWPicture01.png)
 
 and in the code we paste image as
 
 ```wiki
-![image.png](/.attachments/.How-to-A-Work-with-Wiki/HTAWWWPicture01.png)
+![image.png](./.attachments/.How-to-A-Work-with-Wiki/HTAWWWPicture01.png)
 ```
 
 # Basic formatting syntax
@@ -40,7 +40,7 @@ and in the code we paste image as
 
 **Result:**
 
-![image.png](/.attachments/.How-to-A-Work-with-Wiki/HTAWWWPicture02.png)
+![image.png](./.attachments/.How-to-A-Work-with-Wiki/HTAWWWPicture02.png)
 
 ## Blockquotes
 

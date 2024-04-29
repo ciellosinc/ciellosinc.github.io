@@ -1,4 +1,4 @@
-[[_TOC_]]
+{:toc}
 
 
 # Introduction
@@ -81,7 +81,7 @@ Copying is a quick way to create a new layout that's the same as an existing lay
 
 <OL style="margin: 16px 0px 16px 38px;padding: 0px;color: rgb(22, 22, 22);font-family: &amp;quot;font-size: 16px;font-style: normal;font-weight: 400;letter-spacing: normal;text-align: start;text-indent: 0px;text-transform: none;word-spacing: 0px;white-space: normal;background-color: rgb(255, 255, 255)"><LI style="margin: 0px;padding: 0px;list-style: decimal"><P style="margin: 1rem 0px 0px;padding: 0px">Choose the<SPAN> </SPAN><IMG  src="https://learn.microsoft.com/en-us/dynamics365/business-central/media/ui-search/search_small.png"  alt="Lightbulb that opens the Tell Me feature 0."  title="Tell me what you want to do" style="border: 0px;height: auto;vertical-align: baseline"/><SPAN> </SPAN>icon, enter<SPAN> </SPAN><STRONG style="font-weight: 600">Report Layouts</STRONG>, and then choose the related link.</P><P style="margin: 1rem 0px 0px;padding: 0px">The<SPAN> </SPAN><STRONG style="font-weight: 600">Report Layouts</STRONG><SPAN> </SPAN>page appears and lists all the layouts currently available for all reports.</P></LI></OL>
 
-![image.png](/.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture01.png)
+![image.png](./.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture01.png)
 
 1. Select the layout that you want a copy of for your new layout, then choose the **Edit Info** action.
    If you selected an extension layout, you're prompted whether you want to edit a copy. To continue, select **Yes**.
@@ -92,18 +92,18 @@ Copying is a quick way to create a new layout that's the same as an existing lay
 
    In our example we do this for Report **./SalesReceivables/Document/StandardSalesOrderConf.rdlc**
 
-![image.png](/.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture02.png)
+![image.png](./.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture02.png)
 
 2. Change the **Layout Name**.
    You can add prefix or suffix in **Layout Name** and **Description**.
 
-![image.png](/.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture03.png =500x250)
+![image.png](./.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture03.png =500x250)
 
 3. Turn the **Save Changes to Copy** switch to **On**, then select **OK**
 
    The new layout shows in the **Report Layouts** page.
 
-![image.png](/.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture04.png)
+![image.png](./.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture04.png)
 
 ---
 
@@ -119,7 +119,7 @@ Follow these steps to modify an existing user-defined layout.
    >
    > _To help you find the layout, use the **Search** box, **Filter** pane, and columns sorting._
 
-   ![image.png](/.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture05.png)
+   ![image.png](./.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture05.png)
 
 3. Open the layout file in the appropriate application, like Word (for a .docx file) or Excel (for an .xlsx file).
 
@@ -143,7 +143,7 @@ Follow these steps to modify an existing user-defined layout.
 > **ATTENTION**
 >> To use modified Word Report Layout you need to set it as default in **Report Layout Selection**
 >> In the current version it is not possible to select **Word Report Layout** from the **Report Request Page**
->> ![image.png](/.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture06.png)
+>> ![image.png](./.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture06.png)
 >> For RDLC report layouts it is not necessary
 
 There are a few ways to set which layout a report uses. Each way has advantages, depending on what you're looking to do:
@@ -152,9 +152,9 @@ There are a few ways to set which layout a report uses. Each way has advantages,
 
   When setting up a report to run, the report request page includes the **Reports Layout** field that shows the current default layout used by the report. You can use this field to temporarily switch to another available layout the report you're running. After you run the report, the layout will revert to the default layout again.
   
- ![image.png](/.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture07.png)
+ ![image.png](./.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture07.png)
 
- ![image.png](/.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture08.png)
+ ![image.png](./.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture08.png)
 
 - From the **Report Layout Selection** page
 
@@ -177,7 +177,7 @@ Find the layout in the list, select it, then select the **Set Default** action a
 
    - If the layout that you want to switch to is a different type than the current layout, select the **Layout Type** field, then choose the type of the layout you want to set on the report.
    - If the layout that you want to switch to the same type as the current layout, select the **Select Layout** action at the top.
-    ![image.png](/.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture09.png)
+    ![image.png](./.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture09.png)
 
 3. In the **Report Layouts** page, select the layout, then select **OK**.
 
@@ -252,7 +252,7 @@ you can use the same procedure
 
 Sometimes, we are forced to store layouts for each customer separately. To do this, use a separate folder in the repository 
 
-![image.png](/.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture10.png)
+![image.png](./.attachments/.How-to-Use-Custom-Report-Layouts-in-Development/HTUCRLID_Picture10.png)
 
 In this case, you need to load and register layout manually.  
 
