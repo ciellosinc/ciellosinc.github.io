@@ -1,8 +1,4 @@
 
----
-
-layout: default
----
 
 # [Software Development Process](./Software-Development-Process.md)
 
