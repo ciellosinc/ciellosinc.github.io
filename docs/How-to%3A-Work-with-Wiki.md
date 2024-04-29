@@ -4,7 +4,6 @@
 * Business Central Wiki
 {:toc}
 
-
 # Links
 
 [Use Markdown in Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/project/wiki/markdown-guidance?view=azure-devops)
