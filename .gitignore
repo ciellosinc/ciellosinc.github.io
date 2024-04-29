@@ -3,3 +3,7 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
+**/cache_*.json
+**/.vscode/.alcache
+**/~$ *.docx
+**/~$ *.xlsx
