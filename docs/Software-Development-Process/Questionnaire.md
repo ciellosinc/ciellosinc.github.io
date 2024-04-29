@@ -1,6 +1,6 @@
-[[_TOC_]]
+{:toc}
 
-[BC_Questionnaire.xlsx](/.attachments/.Questionnaire/BC_Questionnaire.xlsx)
+[BC_Questionnaire.xlsx](./.attachments/.Questionnaire/BC_Questionnaire.xlsx)
 
 [BC_Questionnaire.xlsx in Teams](https://ciellosinc.sharepoint.com/:x:/s/Ciellos_D365Technical/EcOWfSqIhWBHqLd3_Pg_qD8BTH6aQ5k5_EU_-M66PgTAfA?e=S0L51h)
 

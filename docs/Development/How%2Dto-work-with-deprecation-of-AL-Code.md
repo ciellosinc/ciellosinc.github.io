@@ -2,7 +2,7 @@
 > **State:** Draft
 >
 
-[[_TOC_]]
+{:toc}
 
 # Links
 

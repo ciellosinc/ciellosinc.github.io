@@ -3,7 +3,7 @@
 ## Extensions
 By default, there should be waldo's "AL Extensions Pack" installed
 
-![image.png](/.attachments/.VSCode-Extensions-Policy/image-a6e9a1ae-2e5a-4457-97d5-f4259a4148d6.png)
+![image.png](./.attachments/.VSCode-Extensions-Policy/image-a6e9a1ae-2e5a-4457-97d5-f4259a4148d6.png)
 
 The AL Extensions Pack from Waldo is a collection of Visual Studio Code extensions specifically designed for AL development in Microsoft Dynamics 365 Business Central. It is created and maintained by Eric Wauters, also known as Waldo.
 
@@ -25,7 +25,7 @@ The settings.json file for an AL project is a configuration file that allows you
 Visual Studio Code. It is specific to AL development and provides a way to modify the behavior and preferences of the AL language extension.
 You can access the settings.json file by navigating to the .vscode folder in your AL project and opening the settings.json file within it.
 
-![image.png](/.attachments/.VSCode-Extensions-Policy/image-ecd8ba4f-614a-4769-9aa1-33fabb6abbff.png)
+![image.png](./.attachments/.VSCode-Extensions-Policy/image-ecd8ba4f-614a-4769-9aa1-33fabb6abbff.png)
 
 > **NOTE**
 > Be sure that you selected a correct scope for your extension: <b>"AppSourceCop"</b> or <b>"PerTenantExtensionCop"</b>

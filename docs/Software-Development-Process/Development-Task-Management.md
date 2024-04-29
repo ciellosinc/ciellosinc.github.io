@@ -1,4 +1,4 @@
-[[_TOC_]]
+{:toc}
 
 # Development Task Management
 
@@ -17,7 +17,7 @@ Ad-hoc (VAR) customer request need to be managed by the following process:
    - If not approved, PM changes the PBI status to “Not Approved”.
 
 You can see the diagram below that represents all the steps.   
-![image.png](/.attachments/.DevOps_Task_Management/image-3a3ef176-2843-4efc-930f-c36192241e79.png) 
+![image.png](./.attachments/.DevOps_Task_Management/image-3a3ef176-2843-4efc-930f-c36192241e79.png) 
 
 According to best practices, the team should have regular planning meetings (once or twice per week), The schedule should be defined by the project rhythm.  
 
@@ -45,4 +45,4 @@ On the planning session, the dev team opens backlog and checks what has been app
 
 6. When TA deploys the PBI to customer side, the PBI status needs to be changed to “Complete” and assigned to PM.  
 
-![image.png](/.attachments/.DevOps_Task_Management/image-77a7e7c1-8dca-4a28-9a7d-a6e2a9696277.png)
+![image.png](./.attachments/.DevOps_Task_Management/image-77a7e7c1-8dca-4a28-9a7d-a6e2a9696277.png)

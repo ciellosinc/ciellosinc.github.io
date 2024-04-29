@@ -1,4 +1,4 @@
-[[_TOC_]]
+{:toc}
 
 # Introduction
 
@@ -44,9 +44,9 @@ Registering your application establishes a trust relationship between your app a
 Follow these steps to create the app registration:
 
 1. Sign in to the [Microsoft Entra admin center](https://entra.microsoft.com) as at least a [Cloud Application Administrator](~/identity/role-based-access-control/permissions-reference.md#cloud-application-administrator).
-2. If you have access to multiple tenants, use the **Settings** icon ![settings](./../../.attachments/.includes/settings-icon.png) in the top menu to switch to the tenant in which you want to register the application from the **Directories + subscriptions** menu.
+2. If you have access to multiple tenants, use the **Settings** icon ![settings](./../.../.attachments/.includes/settings-icon.png) in the top menu to switch to the tenant in which you want to register the application from the **Directories + subscriptions** menu.
 3. Browse to **Identity** > **Applications** > **App registrations** and select **New registration**.
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture01.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture01.png)
 4. Enter a display **Name** for your application. Users of your application might see the display name when they use the app, for example during sign-in.
    You can change the display name at any time and multiple app registrations can share the same name. The app registration's automatically generated Application (client) ID, not its display name, uniquely identifies your app within the identity platform.
 5. Specify who can use the application, sometimes called its _sign-in audience_. Select **Accounts in any organizational directory**
@@ -65,7 +65,7 @@ Follow these steps to create the app registration:
 
 7. Select **Register** to complete the platform configuration.
 
-   ![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture02.png)
+   ![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture02.png)
 
 When registration finishes, the Microsoft Entra admin center displays the app registration's **Overview** pane. You see the **Application (client) ID**. Also called the _client ID_, this value uniquely identifies your application in the Microsoft identity platform.
 
@@ -74,9 +74,9 @@ When registration finishes, the Microsoft Entra admin center displays the app re
 
 Your application's code, or more typically an authentication library used in your application, also uses the client ID. The ID is used as part of validating the security tokens it receives from the identity platform.
 
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture03.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture03.png)
 
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture04.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture04.png)
 
 ## Add a redirect URI
 
@@ -93,7 +93,7 @@ To configure application settings based on the platform or device you're targeti
 1. Specify the Redirect URIs for your Business Central browser client -
   <https://businesscentral.dynamics.com/OAuthLanding.htm>.
 
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture05.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture05.png)
 
 ## Add credentials
 
@@ -114,9 +114,9 @@ Create a client secret for the registered application as follows:
 >**NOTE**
 >_Copy the secret's value for use in your client application. This secret value is never displayed again after you leave this page._
 
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture06.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture06.png)
 
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture07.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture07.png)
 
 ## Grant permissions
 
@@ -131,9 +131,9 @@ The API permissions page will include one of the following entries:
 |-|-|-|
 |Dynamics 365 Business Central / API.ReadWrite.All|Application|Access to APIs and webservices|
 
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture08.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture08.png)
 
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture09.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture09.png)
 
 
 # Set up the Microsoft Entra application in Business Central.
@@ -145,15 +145,15 @@ Complete these steps to set up the Microsoft Entra application for service-to-se
 > _It should be completed **by customer** in their Business Central environment._
 
 1. In the Business Central client, search for **Microsoft Entra applications** and open the page.
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture10.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture10.png)
 2. Select **New**. The Microsoft Entra application Card page opens.
 3. In the **Client ID** field, enter the **Application (Client) ID** for the application registered in the previous section.
 4. Fill in the **Description** field. If this application is set up by a partner, please enter sufficient partner-identifying information, so all applications set up by this partner can be tracked in the future if necessary.
 5. Set the State to Enabled.
 6. Assign permissions to objects as needed.
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture11.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture11.png)
 7. Accept permission request. Click on **Grant Consent** and in the open window click "Accept".
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture11.png) 
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture11.png) 
 
 
 # Automate the rotation of a secret for application registered in Microsoft Entra ID
@@ -161,7 +161,7 @@ In a situation where we need to store hundreds of secrets for different customer
 
 You are offered the idea of ​​​​creating an application that will update keys automatically
 
-![Picture](./../../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture15.png)
+![Picture](./../.../.attachments/.How-to-Register-Ms-Entra-Application-in-ISV-Partner-Azure-Tenant/RegisterApplicationPicture15.png)
 
 
 ## Keep secret(s) in **Azure Key Vault**

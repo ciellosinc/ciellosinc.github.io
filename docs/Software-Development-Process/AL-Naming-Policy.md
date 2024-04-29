@@ -1,5 +1,5 @@
 # AL Naming Policy
-[[_TOC_]]
+{:toc}
 
 
 This policy is based on [Microsoft Best Practices for AL](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/compliance/apptest-bestpracticesforalcode#file-naming)

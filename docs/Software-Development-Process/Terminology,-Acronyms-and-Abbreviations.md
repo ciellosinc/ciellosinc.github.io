@@ -1,4 +1,4 @@
-[[_TOC_]]
+{:toc}
 
 # Code Repositories and Branches
 | Item | Definition |

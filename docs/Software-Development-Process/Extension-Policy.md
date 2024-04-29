@@ -54,7 +54,7 @@ Recommended AL Rulesests can be found <a href='https://dev.azure.com/ciellos-bc/
 
 <i>Run Code Cleanup on Uncommited Files in the Active Project:</i> runs code cleanup on all uncommited al files in the current project
 
-![file.gif](/.attachments/.Extensions-Policy/image-8cadd3c2-b815-4587-979b-1d1896df6426.gif)
+![file.gif](./.attachments/.Extensions-Policy/image-8cadd3c2-b815-4587-979b-1d1896df6426.gif)
 
 > **NOTE**
 > List of actions run by code cleanup commands can be specified in alOutline.codeCleanupActions setting (setting.json file).

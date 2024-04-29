@@ -1,4 +1,4 @@
-[[_TOC_]]
+{:toc}
 
 # Dev Training Sessions (2022)
 

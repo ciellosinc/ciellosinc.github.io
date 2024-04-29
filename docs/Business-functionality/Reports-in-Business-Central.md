@@ -1,7 +1,7 @@
 
-[[_TOC_]]
+{:toc}
 
-**PDF Version:** [Reports in Business Central - Overview](/.attachments/.Reports-in-Business-Central/Reports%20in%20Business%20Central%20-%20Overview.pdf)
+**PDF Version:** [Reports in Business Central - Overview](./.attachments/.Reports-in-Business-Central/Reports%20in%20Business%20Central%20-%20Overview.pdf)
 
 
 # Ad-hoc data analysis
@@ -12,7 +12,7 @@ End users and data analysts can analyze data from lists directly in the client w
 
 The ability to analyze data directly in lists raises the bar for what you can do without having to switch applications, while still allowing customers and partners to do more in report objects, Excel, Power BI, or other data analysis applications.
 
-![image.png](/.attachments/.Reports-in-Business-Central/image-7094aaf0-9989-4b41-a6a5-33a90fba31a7.png)
+![image.png](./.attachments/.Reports-in-Business-Central/image-7094aaf0-9989-4b41-a6a5-33a90fba31a7.png)
 
 # [Financial Business Intelligence](https://learn.microsoft.com/en-ca/dynamics365/business-central/bi)
 
