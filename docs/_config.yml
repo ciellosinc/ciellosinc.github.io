@@ -2,4 +2,5 @@ title: Ciellos Wiki
 author: Andrii Soroka
 description: Business Central Wiki
 markdown: kramdown
-theme: jekyll-theme-leap-day
+show_downloads: false
+theme: jekyll-theme-slate
