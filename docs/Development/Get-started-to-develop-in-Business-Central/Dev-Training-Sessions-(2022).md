@@ -1,3 +1,6 @@
+# Table of contents
+
+* TOC
 {:toc}
 
 # Dev Training Sessions (2022)
