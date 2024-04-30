@@ -29,5 +29,7 @@
     - [How to - Use User-Defined Report Layouts in Development](./Development/Reports/How-to-%252D-Use-User%252DDefined-Report-Layouts-in-Development.md)
   - [BC and Snapshot Isolation](./Development/BC-and-Snapshot-Isolation.md)
   - [Tips & Tricks](./Development/Tips-&-Tricks.md)
+- [Administration](./Administration.md)
+
 - [Home](./index.md)
 
