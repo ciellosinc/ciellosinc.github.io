@@ -1,4 +1,5 @@
-{:toc}
+- [Development Task Management](#development-task-management)
+
 
 # Development Task Management
 

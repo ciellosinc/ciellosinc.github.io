@@ -2,7 +2,8 @@
 > **State:** Draft
 >
 
-{:toc}
+- [Links](#links)
+
 
 # Links
 

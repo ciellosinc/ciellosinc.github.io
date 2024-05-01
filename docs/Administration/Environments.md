@@ -1,4 +1,22 @@
-{:toc}
+- [Environments - From a Usage perspective](#environments---from-a-usage-perspective)
+  - [Development environments](#development-environments)
+    - [Local Development Environment](#local-development-environment)
+    - [Azure VM as a Development Environment](#azure-vm-as-a-development-environment)
+    - [SaaS Sandbox environment (trial or permanent) ​](#saas-sandbox-environment-trial-or-permanent-)
+  - [Test Environments](#test-environments)
+  - [Production Environments](#production-environments)
+- [Environments - From a technology perspective](#environments---from-a-technology-perspective)
+  - [Local development box on the dev laptop with Docker container​](#local-development-box-on-the-dev-laptop-with-docker-container)
+  - [Azure VM with docker container​](#azure-vm-with-docker-container)
+  - [SaaS Sandbox environment (permanent)​](#saas-sandbox-environment-permanent)
+  - [SaaS Sandbox environment (trial)​](#saas-sandbox-environment-trial)
+- [Additional information](#additional-information)
+  - [SaaS Environments](#saas-environments)
+  - [Trial Environments](#trial-environments)
+    - [Enable BC Trial mode for tenant](#enable-bc-trial-mode-for-tenant)
+    - [Trials for other Microsoft Dynamics 365 products](#trials-for-other-microsoft-dynamics-365-products)
+  - [Permanent solution for Microsoft Partners](#permanent-solution-for-microsoft-partners)
+
 
 ---
 # Environments - From a Usage perspective

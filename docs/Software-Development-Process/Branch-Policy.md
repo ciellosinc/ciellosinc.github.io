@@ -1,4 +1,6 @@
-{:toc}
+- [Branching Strategy](#branching-strategy)
+- [Flow Steps](#flow-steps)
+
 
 # Branching Strategy
 

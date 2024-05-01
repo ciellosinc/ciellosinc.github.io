@@ -1,5 +1,11 @@
-#Microsoft CDX trial tenant
-{:toc}
+- [Microsoft CDX trial tenant](#microsoft-cdx-trial-tenant)
+    - [How to get a Microsoft CDX Trial tenant](#how-to-get-a-microsoft-cdx-trial-tenant)
+    - [How to get Dynamics 365 Sales trial environment](#how-to-get-dynamics-365-sales-trial-environment)
+    - [How to get Dynamics 365 Business Central trial environments](#how-to-get-dynamics-365-business-central-trial-environments)
+    - [How to get Dynamics 365 Finance and Operations trial environment](#how-to-get-dynamics-365-finance-and-operations-trial-environment)
+
+
+# Microsoft CDX trial tenant
 
 Microsoft Customer Digital Experiences (CDX) are interactive digital experiences that help partners show customers why Microsoft is the right choice and how they can integrate and manage Microsoft cloud products. Please find more details here: https://learn.microsoft.com/en-us/partner-center/mpn-demos.
 

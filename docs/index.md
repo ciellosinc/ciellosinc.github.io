@@ -15,7 +15,7 @@
 
 - [Development](./Development.md)
   - [Get started to develop in Business Central](./Development/Get-started-to-develop-in-Business-Central.md)
-    - [Get started to develop in Business Central](./Development/Get-started-to-develop-in-Business-Central/Dev-Training-Sessions-(2022).md)
+    - [Dev Training Sessions (2022)](./Development/Get-started-to-develop-in-Business-Central/Dev-Training-Sessions-(2022).md)
   - [API](./Development/API.md)
     - [API Guidelines](./Development/API/API-Guidelines.md)
     - [How To Use Standard APIs In Business Central](./Development/API/How-To-Use-Standard-APIs-In-Business-Central.md)

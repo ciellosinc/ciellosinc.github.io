@@ -1,4 +1,13 @@
-{:toc}
+- [Summary](#summary)
+- [Thinking about Strategies](#thinking-about-strategies)
+- [Monetization Strategies](#monetization-strategies)
+  - [Important Questions](#important-questions)
+  - [Things to think about](#things-to-think-about)
+  - [Recommendations:](#recommendations)
+  - [Existing Apps using Recommendations](#existing-apps-using-recommendations)
+- [Marketing Strategies](#marketing-strategies)
+  - [Recommendations](#recommendations-1)
+
 
 # Summary 
 

@@ -1,4 +1,15 @@
-{:toc}
+- [Introduction](#introduction)
+- [1. Register Microsoft Entra ID application in **Partner** tenant](#1-register-microsoft-entra-id-application-in-partner-tenant)
+  - [Register Application](#register-application)
+  - [Add a redirect URI](#add-a-redirect-uri)
+  - [Add credentials](#add-credentials)
+  - [Grant permissions](#grant-permissions)
+- [Set up the Microsoft Entra application in Business Central.](#set-up-the-microsoft-entra-application-in-business-central)
+- [Automate the rotation of a secret for application registered in Microsoft Entra ID](#automate-the-rotation-of-a-secret-for-application-registered-in-microsoft-entra-id)
+  - [Keep secret(s) in **Azure Key Vault**](#keep-secrets-in-azure-key-vault)
+  - [Add reference to the Key Vault Secrets in **Azure App Configuration**](#add-reference-to-the-key-vault-secrets-in-azure-app-configuration)
+  - [Reload secrets from Key Vault automatically](#reload-secrets-from-key-vault-automatically)
+
 
 # Introduction
 

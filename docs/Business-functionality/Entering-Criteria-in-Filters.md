@@ -1,6 +1,9 @@
 # Table of contents
 
-{:toc}
+- [Table of contents](#table-of-contents)
+- [Links](#links)
+- [Entering Criteria in Filters](#entering-criteria-in-filters)
+
 
 
 # Links

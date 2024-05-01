@@ -1,4 +1,10 @@
-{:toc}
+- [Questionnaire](#questionnaire)
+- [Table of services](#table-of-services)
+  - [Documentation delivery](#documentation-delivery)
+  - [Code delivery](#code-delivery)
+  - [Application deployment/delivery to the Environment](#application-deploymentdelivery-to-the-environment)
+  - [Automation (AL-Go with GitHub)](#automation-al-go-with-github)
+
 
 [BC_Questionnaire.xlsx](./.attachments/.Questionnaire/BC_Questionnaire.xlsx)
 

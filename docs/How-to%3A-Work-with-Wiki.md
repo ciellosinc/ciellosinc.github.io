@@ -1,8 +1,4 @@
 
-# table of contents
-
-* Business Central Wiki
-{:toc}
 
 # Links
 

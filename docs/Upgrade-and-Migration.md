@@ -1,4 +1,5 @@
-{:toc}
+- [Links](#links)
+- [Tools](#tools)
 
 # Links
 

@@ -1,5 +1,19 @@
 # AL Naming Policy
-{:toc}
+
+- [AL Naming Policy](#al-naming-policy)
+  - [Naming Conventions](#naming-conventions)
+    - [Naming Objects](#naming-objects)
+    - [Table and Page extension naming](#table-and-page-extension-naming)
+    - [Report Template Naming](#report-template-naming)
+  - [File Naming](#file-naming)
+    - [File naming notation](#file-naming-notation)
+    - [Type map](#type-map)
+    - [File naming examples](#file-naming-examples)
+    - [Examples of object naming](#examples-of-object-naming)
+      - [Table](#table)
+      - [Page](#page)
+      - [Action](#action)
+      - [Codeunit](#codeunit)
 
 
 This policy is based on [Microsoft Best Practices for AL](https://learn.microsoft.com/en-us/dynamics365/business-central/dev-itpro/compliance/apptest-bestpracticesforalcode#file-naming)

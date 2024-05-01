@@ -1,4 +1,16 @@
-{:toc}
+- [Introduction](#introduction)
+- [Important changes](#important-changes)
+- [Links](#links)
+- [Report Layouts](#report-layouts)
+  - [Create a new layout](#create-a-new-layout)
+    - [Create a new layout by copying](#create-a-new-layout-by-copying)
+  - [Modify a layout](#modify-a-layout)
+- [Setting the Layout Used by a Report](#setting-the-layout-used-by-a-report)
+  - [Set the layout from the Report Layouts page](#set-the-layout-from-the-report-layouts-page)
+  - [Set the layout from Report Layout Selection page](#set-the-layout-from-report-layout-selection-page)
+- [Register layout from the code.](#register-layout-from-the-code)
+- [Storing layouts for different customers](#storing-layouts-for-different-customers)
+
 
 
 # Introduction

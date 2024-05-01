@@ -1,4 +1,20 @@
-{:toc}
+- [Links](#links)
+  - [Working with translation files - Business Central | Microsoft Learn](#working-with-translation-files---business-central--microsoft-learn)
+  - [Translations Overview - Business Central | Microsoft Learn](#translations-overview---business-central--microsoft-learn)
+- [How to work with translation files using Dynamics 365 Translation Service](#how-to-work-with-translation-files-using-dynamics-365-translation-service)
+- [Dynamics 365 Translation Service](#dynamics-365-translation-service)
+  - [**Azure DevOps Extension**](#azure-devops-extension)
+  - [**Visual Studio Code extension**](#visual-studio-code-extension)
+- [Multilingual App Toolkit Editor](#multilingual-app-toolkit-editor)
+- [Azure Translator](#azure-translator)
+  - [Pricing](#pricing)
+  - [How to use Azure Translator in Multilingual App Toolkit](#how-to-use-azure-translator-in-multilingual-app-toolkit)
+- [POedit](#poedit)
+  - [Links](#links-1)
+  - [How to work](#how-to-work)
+- [Other providers](#other-providers)
+- [Tips \& Tricks](#tips--tricks)
+
 
 # Links 
 

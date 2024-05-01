@@ -1,4 +1,9 @@
-{:toc}
+- [Code Repositories and Branches](#code-repositories-and-branches)
+- [Project Roles](#project-roles)
+- [Environments type](#environments-type)
+- [Cloud options](#cloud-options)
+- [Microsoft Dynamics 365 and Power Platform products](#microsoft-dynamics-365-and-power-platform-products)
+
 
 # Code Repositories and Branches
 | Item | Definition |

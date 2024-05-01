@@ -1,12 +1,14 @@
+
 # Table of contents
 
-* TOC
-{:toc}
+- [Table of contents](#table-of-contents)
+- [Dev Training Sessions (2022)](#dev-training-sessions-2022)
+
 
 # Dev Training Sessions (2022)
 
 |**No.**|**Topic**|**Trainer**|**Training Estimation**|**Prerequisites**|**Link**|
-|-|-|-|-|-|-|
+|--|--|--|--|--|--|
 |1| Introduction to ERP & Business Central|Functional|1|||
 || What is ERP?||0.5||[TS01](https://ciellosinc.sharepoint.com/:v:/g/Knowledge/ES_2CO--fQlAo21x2mznfCkBVOwrIsI9pLO863zrpAytBA?e=1BScYy)|
 || What is BC?||0.5|||

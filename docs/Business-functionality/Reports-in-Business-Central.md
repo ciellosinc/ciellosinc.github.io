@@ -1,5 +1,15 @@
 
-{:toc}
+- [Ad-hoc data analysis](#ad-hoc-data-analysis)
+  - [Analyze list page and query data using data analysis mode](#analyze-list-page-and-query-data-using-data-analysis-mode)
+- [Financial Business Intelligence](#financial-business-intelligence)
+- [**Built-in Reports**](#built-in-reports)
+  - [Financial Reports and Analytics in Business Central](#financial-reports-and-analytics-in-business-central)
+  - [Accounts Receivable Reports and Analytics in Business Central](#accounts-receivable-reports-and-analytics-in-business-central)
+  - [Accounts Payable Reports and Analytics in Business Central](#accounts-payable-reports-and-analytics-in-business-central)
+  - [Sales Reports and Analytics in Business Central](#sales-reports-and-analytics-in-business-central)
+  - [Purchase Reports and Analytics in Business Central](#purchase-reports-and-analytics-in-business-central)
+  - [Inventory and Warehouse Reports and Analytics](#inventory-and-warehouse-reports-and-analytics)
+
 
 **PDF Version:** [Reports in Business Central - Overview](./.attachments/.Reports-in-Business-Central/Reports%20in%20Business%20Central%20-%20Overview.pdf)
 

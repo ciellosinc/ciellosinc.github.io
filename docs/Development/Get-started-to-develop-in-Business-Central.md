@@ -1,4 +1,12 @@
-{:toc}
+- [Environments](#environments)
+- [Microsoft Learn](#microsoft-learn)
+- [Dev Training Sessions (2022)](#dev-training-sessions-2022)
+- [Software Development Process in Ciellos](#software-development-process-in-ciellos)
+- [Ciellos Templates](#ciellos-templates)
+- [Certification](#certification)
+  - [Resources for preparation](#resources-for-preparation)
+- [Additional resources](#additional-resources)
+
 
 # Environments
 
